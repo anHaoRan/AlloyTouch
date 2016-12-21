@@ -49,3 +49,4 @@ new AlloyTouch({
 
 # License
 This content is released under the [MIT](http://opensource.org/licenses/MIT) License.
+[掘金地址](https://gold.xitu.io/post/584e4f2fb123db0066211c18)
